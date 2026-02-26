@@ -29,7 +29,7 @@ I teach:
 - Object Oriented Programming with Java
 - Software Testing
 - Software Design and Construction
-- Programming with Artificial Intelligence
+- Software Engineering with Artificial Intelligence
 
 
 
